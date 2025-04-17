@@ -1,0 +1,22 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  margin-top: 80px;
+}
+input,
+button {
+  font-size: 18px;
+  padding: 10px;
+  width: 300px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+#qrcode {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
